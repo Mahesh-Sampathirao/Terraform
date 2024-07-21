@@ -1,0 +1,8 @@
+ami_id = "ami-0ec0e125bb6c6e8ec"
+instance_type = "t2.micro"
+key_name = "key"
+security_groups = "cus-security"
+subnet_id = "cus-publicsubnet"
+vpc_id = "cus-vpc"
+route_table_id = "cus-route"
+gateway_id = "cusgateway"
